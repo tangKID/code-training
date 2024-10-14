@@ -12,3 +12,4 @@
 2024.10.12 leetcode_54</br>
 2024.10.12 leetcode_55</br>
 2024.10.13 leetcode_56</br>
+2024.10.14 leetcode_41</br>
