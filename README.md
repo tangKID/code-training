@@ -15,4 +15,5 @@
 2024.10.14 leetcode_41</br>
 2024.10.14 leetcode_42</br>
 2024.10.14 leetcode_44</br>
-2024.10.12 leetcode_57</br>
+2024.10.15 leetcode_57</br>
+2024.10.18 leetcode_57</br>
